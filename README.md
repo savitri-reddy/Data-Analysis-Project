@@ -1,7 +1,10 @@
-Data Analysis Projects
+📊 Data Analysis Projects
+
 Welcome to my collection of Data Analysis Projects built using Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and Excel. Each project explores a real-world dataset and applies data cleaning, exploration, visualization, and insights extraction techniques.
 
+.
 🧠 Projects Overview
+
 1. 📁 IPL Data Analysis
 Goal: Analyze IPL matches and player performance data.
 Techniques: EDA, grouping, aggregation, visualization.
@@ -21,6 +24,8 @@ Matplotlib, Seaborn
 Jupyter Notebook
 Power BI / Excel (for dashboard-based projects)
 Git & GitHub
+
+
 2.Install the required Python libraries:
 
 pip install pandas numpy matplotlib seaborn jupyter
